@@ -1,6 +1,6 @@
 
 
-## Preparing ImageNet64 Dataset
+## Preparing ImageNet64 Dataset with Clustered Label
 
 ### Step 1: Acquire ImageNet64
 
