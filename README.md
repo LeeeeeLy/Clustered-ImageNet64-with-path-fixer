@@ -30,5 +30,5 @@ pip install -r requirements.txt
 For comprehensive label mappings and insights into data clustering, refer to the following resources:
 - [ImageNet Full Label Mapping](https://gist.github.com/aaronpolhamus/964a4411c0906315deb9f4a3723aac57)
 - [Clustered Label Mapping](https://github.com/Prev/clustered-imagenet-labels/blob/master/trainer/data/clustered_imagenet_labels.json)
-- Research on ImageNet data organization: [ArXiv Paper](https://arxiv.org/abs/1707.08819)
+- [Downsampled ImageNet](https://arxiv.org/abs/1707.08819)
 
